@@ -1,4 +1,4 @@
-package online.uz.pdp;
+package example2;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
