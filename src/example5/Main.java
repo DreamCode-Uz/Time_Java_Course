@@ -19,8 +19,7 @@ public class Main {
         }
 //        workday -
         System.out.println("Ish kuni: " + workday + "\nDam olish kuni: " + weekDays);
-    }
-}
+    }}
 // 31-Dekabr;
 // 14 -Yanvar;
 // 8-Mart;
